@@ -1,4 +1,3 @@
-# Lab-1
 # Lab 1: Git & GitHub for ML Projects
 
 Introduce yourself in this README as part of Lab 1 for ARTI 308 - Machine Learning. Share a brief introduction about who you are, your background, and your interest in machine learning.
